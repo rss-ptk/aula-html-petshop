@@ -1,5 +1,6 @@
-<div align="center" id="top"> 
-  <img src="img/img-4.png" alt="Html" />
+<div align="center" id="top">   
+
+  ![App Screenshot](img/img-4.png)
 
   &#xa0;
 
@@ -8,20 +9,13 @@
 <h1 align="center">Hotsite da feira de adoção</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{rss-ptk}}/aula-html-petshop?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/rss-ptk/aula-html-petshop?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{rss-ptk}}/aula-html-petshop?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/rss-ptk/aula-html-petshop?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{rss-ptk}}/aula-html-petshop?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rss-ptk/aula-html-petshop?color=56BEB8">
+
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Html 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <br>
 
@@ -38,4 +32,9 @@ The following tools were used in this project:
 
 &#xa0;
 
+## Autores
+
+- [@rss-ptk](https://www.github.com/rss-ptk)
+
+&#xa0;
 <a href="#top">Back to top</a>
